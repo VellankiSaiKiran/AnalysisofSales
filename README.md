@@ -22,7 +22,7 @@ The analysis is based on a dataset that includes:
 - **Sales Per Order by Month**: A line chart illustrating the average sales per order for each month, indicating efficiency or pricing changes.
 - **Yearly Comparison and YoY Change**: Metrics and a line chart that compare sales to the previous year, with a focus on growth rates.
 
-## Key Findings
+## Key Findings in the report
 
 - `Pastry` is the top-selling category, followed by `Ice Cream`.
 - `Danish` is the leading product in sales, with `Dave's Killer Bread` being a close second.
